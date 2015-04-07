@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hannes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/gson-2.3.1-5d829925a9cb29caafba4aab5503ec161dd9d14d.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/viewstate/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="340591d43d08b48ec5cd386115fb9ad04252001d">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/classes-c647e182c4925d38ad780801a3e81426680a570a.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/viewstate-dagger1/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4191342e98b0b46c4cd38e175bde9596dc4cf595">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/classes-7c1b074b31ed2dd191af1ab17944fa8ba8f83f58.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/dagger-1.2.2-b9ae2cf07330847462a3bdd5a737bb13ae412894.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.fragmentargs/annotation/2.0.1/e592e6285431c60ec5f7416d4b99edb4ab9b6ca9/annotation-2.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e592e6285431c60ec5f7416d4b99edb4ab9b6ca9">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/annotation-2.0.1-c3fff034bf12ae2fe4cb10cf686087251537e63b.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c2967f56939bc0d979d68d4206a9b40a8010a4b2.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-56f04b3efa0374b3a93a213f53a31017ded9e495.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-70577255fdd6921996e2bfd571f558aa5ab37c4c.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.parcelableplease/annotation/1.0.1/67161bf928f8fe0df41a02658aa6294a650de728/annotation-1.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="67161bf928f8fe0df41a02658aa6294a650de728">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/annotation-1.0.1-406869bda4bc058549647904e46992708eb5c501.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/core/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11839ae54a18e4c72c75f1c35656bfe3c0f2f0e4">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/classes-0236a7c363307a73e026670dd1b3b1f14fafa494.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/mvp/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="431bab65b07d92a3e11d6c8337681e29db05100a">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/classes-84826ba5c05fce029c75d487dcb2df0971d14480.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/retrofit/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="174cc4d8bdbe9b48163b561d326770a1f35f5817">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/classes-fa45fcf9192ec7dab18f81471769d8a5bcba4f11.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/.gradle/caches/modules-2/files-2.1/frankiesardo/icepick/3.0.2/aa322573c1556118350aa526ba7983c182f695d5/icepick-3.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa322573c1556118350aa526ba7983c182f695d5">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/icepick-3.0.2-b5b5212ca2e5648fedca9cd8471beac7c6b849c3.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-19a0e36f99390b426495a8b58b7881171d746568.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/classes-dbdf3ecf2a29046df9299be234c0d708c173384b.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/javax.inject-1-03c8df2eb89884f4c0edb437cc0f7438c6d8ba3a.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/classes-bae7374c470714ee92e02b71d25fe3a9a9947172.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-8fd7c01fc40b3f669bd93a39d7f66de4eff2849f.jar" />
+    </item>
+    <item
+        jar="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/core-dagger1/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96c7d95eb743ae334dfdc466f8547570e91efb73">
+        <dex dex="/Users/hannes/workspace/MosbyViewPagerDemo/app/build/intermediates/pre-dexed/debug/classes-aec270809d0170c0890d00e7fbb685f7c4edfdcb.jar" />
+    </item>
+
+</items>
